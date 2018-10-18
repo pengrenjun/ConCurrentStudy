@@ -1,5 +1,7 @@
 package com.test;
 
+import java.util.concurrent.PriorityBlockingQueue;
+
 /**
  * @Description:   简单的线程
  * @Author：pengrj
@@ -33,6 +35,7 @@ public class ThreadA  extends  Thread{
         c.start();
         d.start();
         e.start();
+
 
 
     }
