@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="disruptor-3.3.2">
+    <CLASSES>
+      <root url="jar://D:/视频课程/互联网架构师课程/disruptor-3.3.2(1).jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://lmax-exchange.github.com/disruptor" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/视频课程/互联网架构师课程/disruptor-3.3.2(1).jar!/" />
+    </SOURCES>
+  </library>
+</component>
